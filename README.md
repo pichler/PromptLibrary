@@ -1,4 +1,4 @@
 # Prompt Library
 Willkommen in meiner persönlichen Prompt Library. Ich sammle hier nützliche Prompts aus verschiedensten Kategorien und stelle sie auch öffentlich zur Verfügung.
 
-Um neue Einträge in der Library zu erstellen, kann ein [vorbereiteter Prompt zur Erstellung der Markdown-Seite](„Prompt Library Eintrag erstellen.md“) verwendet werden.
+Um neue Einträge in der Library zu erstellen, kann ein [vorbereiteter Prompt](Prompt%20Library%20Eintrag%20erstellen.md) zur Erstellung der Markdown-Seite verwendet werden. Eine Seitenvorlage ist [hier](Vorlagen/Vorlage.md) zu finden.
