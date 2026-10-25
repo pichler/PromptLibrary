@@ -8,3 +8,6 @@ Um neue Einträge in der Library zu erstellen, kann ein [vorbereiteter Prompt](P
 
 </details>
 
+## Wissenschaftliches Arbeiten
+[Eine Studie im Stil von HBM zusammenfassen](Studie-zusammenfassen/readme.md)
+
